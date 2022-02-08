@@ -30,7 +30,7 @@ p {
     max-width: 45%; 
     margin-left: 40px;
 }
-#image {
+#imageBox {
     display: flex;
     background-color:hsl(277, 64%, 61%);
      /* max-width: 50%; */
@@ -126,7 +126,7 @@ img {
 
     } 
 
-    #image {
+    #imageBox {
         border-radius: 20px 20px 0px 0px;
     }
 }
